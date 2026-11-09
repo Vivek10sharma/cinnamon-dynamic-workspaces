@@ -1,0 +1,7 @@
+{
+  "uuid": "dynamic-workspaces@local",
+  "name": "Dynamic Workspaces",
+  "description": "GNOME-style dynamic workspaces: always keeps one empty workspace at the end and removes extra empty ones.",
+  "cinnamon-version": ["5.4", "5.6", "5.8", "6.0", "6.2", "6.4", "6.6"],
+  "version": "1.0"
+}
